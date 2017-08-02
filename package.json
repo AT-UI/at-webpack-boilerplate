@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "at-ui": "^1.1.0",
-    "at-ui-style": "^1.1.0",
+    "at-ui-style": "^1.2.0",
     "vue": "^2.3.4"
   },
   "devDependencies": {
